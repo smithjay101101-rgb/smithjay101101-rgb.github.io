@@ -1,0 +1,26 @@
+{
+  "_i18n-BkmEtifq.js": {
+    "file": "assets/i18n-BkmEtifq.js",
+    "name": "i18n",
+    "imports": [
+      "_react-vendor-NH-DwdKF.js"
+    ]
+  },
+  "_react-vendor-NH-DwdKF.js": {
+    "file": "assets/react-vendor-NH-DwdKF.js",
+    "name": "react-vendor"
+  },
+  "index.html": {
+    "file": "assets/app-CA7aegwd.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_react-vendor-NH-DwdKF.js",
+      "_i18n-BkmEtifq.js"
+    ],
+    "css": [
+      "assets/app-D4Ejm44u.css"
+    ]
+  }
+}
